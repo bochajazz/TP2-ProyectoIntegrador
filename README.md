@@ -1,2 +1,1 @@
-# TP2-ProyectoIntegrador
-Trabajo práctico de Proyecto Integrador
+# tp2ProyectoIntegrador
